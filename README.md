@@ -10,3 +10,8 @@ Components of Core includes Macros and Foundry IP's.Examples of MACROS include R
 ### RISC-V Architecture :
 First the code is created using C or C++. Then it is implemented using picorv32 cpu core and finally it is embedded in qflow.
 ![RISC-V image](<Screenshot2 2025-01-29 205044.png>)
+**Open-Source tools for chip design**  
+RTL designs (Github.com)  
+EDA tools(OpenLANE)  
+PDK data(Foss 130nm)  
+![Simplified flow](<Screenshot3 2025-01-29 210408.png>)
