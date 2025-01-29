@@ -33,6 +33,6 @@ Flop Ratio = (Number of D Flip Flops) / (Total Number of cells)
   
 ![FlopRatioreport](<Screenshotflip 2025-01-29 213630.png>)  
    
-   Flop ratio = sky130_fd_sc_hd__dfxtp_2/Number of cells = 1613 / 14876 = 0.1084296853993009  
-   Percentage (%) = 10.84296853993009 %
+   Flop ratio = sky130_fd_sc_hd__dfxtp_2/Number of cells = 1613 / 14876 = **0.1084296853993009**
+   Percentage (%) = **10.84296853993009 %**
 
