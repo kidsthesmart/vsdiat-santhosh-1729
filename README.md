@@ -21,5 +21,18 @@ PDK data(Foss 130nm)
 **Run 'OpenLane' design :**  
 ![Openlane](<Screenshotopen 2025-01-29 211519.png>)  
 **Preparation of picorv32a design**  
-![Preparation](<Screenshotprep 2025-01-29 212118.png>)
+![Preparation](<Screenshotprep 2025-01-29 212118.png>)  
+
+**Synthesis**
+
+![Synthesis2](<Screenshotsynt 2025-01-29 212800.png>)
+
+**Flop Ratio**
+
+Flop Ratio = (Number of D Flip Flops) / (Total Number of cells)  
+  
+![FlopRatioreport](<Screenshotflip 2025-01-29 213630.png>)  
+   
+   Flop ratio = sky130_fd_sc_hd__dfxtp_2/Number of cells = 1613 / 14876 = 0.1084296853993009
+   Percentage (%) = 10.84296853993009 %
 
