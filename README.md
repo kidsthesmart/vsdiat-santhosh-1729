@@ -19,5 +19,7 @@ PDK data(Foss 130nm)
 ![Simplified diagram](<Screenshot4 2025-01-29 210730.png>)  
 ### Exercise  
 **Run 'OpenLane' design :**  
-![Openlane](<Screenshotopen 2025-01-29 211519.png>)
+![Openlane](<Screenshotopen 2025-01-29 211519.png>)  
+**Preparation of picorv32a design**  
+![Preparation](<Screenshotprep 2025-01-29 212118.png>)
 
