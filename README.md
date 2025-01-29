@@ -14,4 +14,10 @@ First the code is created using C or C++. Then it is implemented using picorv32 
 RTL designs (Github.com)  
 EDA tools(OpenLANE)  
 PDK data(Foss 130nm)  
-![Simplified flow](<Screenshot3 2025-01-29 210408.png>)
+![Simplified flow](<Screenshot3 2025-01-29 210408.png>)  
+**Simplified diagram**
+![Simplified diagram](<Screenshot4 2025-01-29 210730.png>)  
+### Exercise  
+**Run 'OpenLane' design :**  
+![Openlane](<Screenshotopen 2025-01-29 211519.png>)
+
