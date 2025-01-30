@@ -49,8 +49,13 @@ HMETAL = Horizontal metal
 ![COREUTILIZATION](<Screenshottcl 2025-01-30 214547.png>)  
 **The finalized floorplan with die length and other row details**  
 ![FLOORPLAN](<Screenshotfloorplan 2025-01-30 215015.png>)  
-1 micron = 1000 Database units  
-The Die Area is represented using Database units.
+**1 micron = 1000 Database units** 
+The Die Area is represented using Database units.  
+**Code for opening magic**  
+![CODE](<Screenshot 2025-01-30 21594422.png>)  
+**Magic Screen Floorplan**  
+![MAGIC1](<Screenshotmagic1 2025-01-30 220141.png>)  
+![MAGIC2](<Screenshomt 2025-01-30 220505.png>)
 
 
 
