@@ -46,6 +46,11 @@ HMETAL = Horizontal metal
 **Running floorplan using run_floorplan**  
 ![run_floorplan](<Screenshotf1 2025-01-30 212811.png>)  
 **Running config.tcl and checking core utilization**  
-![COREUTILIZATION](<Screenshottcl 2025-01-30 214547.png>)
+![COREUTILIZATION](<Screenshottcl 2025-01-30 214547.png>)  
+**The finalized floorplan with die length and other row details**  
+![FLOORPLAN](<Screenshotfloorplan 2025-01-30 215015.png>)  
+1 micron = 1000 Database units  
+The Die Area is represented using Database units.
+
 
 
