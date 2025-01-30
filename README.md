@@ -38,6 +38,14 @@ Flop Ratio = (Number of D Flip Flops) / (Total Number of cells)
 ## <ins>Topic 2 : Good floorplan vs Bad floorplan and introduction to library cells</ins>  
 ### Exercise   
 **Various Variables for Floorplan of chip :**   
-![VARIABLES](<Screenshotreadme 2025-01-30 211225.png>)
+![VARIABLES](<Screenshotreadme 2025-01-30 211225.png>)  
+**Running floorplan.tcl**  
+![FLOORPLAN.TCL](<Screenshotflotcl 2025-01-30 211610.png>)  
+VMETAL = Vertical metal
+HMETAL = Horizontal metal  
+**Running floorplan using run_floorplan**  
+![run_floorplan](<Screenshotf1 2025-01-30 212811.png>)  
+**Running config.tcl and checking core utilization**  
+![COREUTILIZATION](<Screenshottcl 2025-01-30 214547.png>)
 
 
