@@ -35,7 +35,10 @@ Flop Ratio = (Number of D Flip Flops) / (Total Number of cells)
    
    Flop ratio = sky130_fd_sc_hd__dfxtp_2/Number of cells = 1613 / 14876 = **0.1084296853993009**  
    Percentage (%) = **10.84296853993009 %**  
-## <ins>Topic 2 : Good floorplan vs Bad floorplan and introduction to library cells</ins>  
+## <ins>Topic 2 : Good floorplan vs Bad floorplan and introduction to library cells</ins>   
+### Utilization Factor and Aspect Ratio:  
+Utilization factor = Area utilized by chip/Area of core  
+Aspect Ratio = Height / Width
 ### Exercise   
 **Various Variables for Floorplan of chip :**   
 ![VARIABLES](<Screenshotreadme 2025-01-30 211225.png>)  
