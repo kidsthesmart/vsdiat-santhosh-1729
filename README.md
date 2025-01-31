@@ -45,14 +45,21 @@ The logical gates are phsyically block like structures and it is connected to fl
 **A Typical Optimized Placement**  
 ![PLACE](<Screenshottyp 2025-01-31 220024.png>)  
 **Steps for Library characterization** 
-1.![1](<Screenshot 12025-01-31 220258.png>)  
-2.![2](<Screenshot2 2025-01-31 220409.png>)  
-3.![3](<Screenshot3 2025-01-31 220446.png>)  
-4.![4](<Screenshot4 2025-01-31 220553.png>)  
-5.![5](<Screenshot5 2025-01-31 220640.png>)  
+1.  
+![1](<Screenshot 12025-01-31 220258.png>)  
+2.  
+![2](<Screenshot2 2025-01-31 220409.png>)  
+3.  
+![3](<Screenshot3 2025-01-31 220446.png>)  
+4.  
+![4](<Screenshot4 2025-01-31 220553.png>)  
+5.  
+![5](<Screenshot5 2025-01-31 220640.png>)  
 **Important step**  
+  
 ![IMPORTANT](<Screenshotimportant 2025-01-31 211020.png>)  
 **Summary for Library characterization**  
+  
 ![LAST](<Screenshot l2025-01-31 220811.png>)
 ### Exercise   
 **Various Variables for Floorplan of chip :**   
