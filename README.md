@@ -37,8 +37,23 @@ Flop Ratio = (Number of D Flip Flops) / (Total Number of cells)
    Percentage (%) = **10.84296853993009 %**  
 ## <ins>Topic 2 : Good floorplan vs Bad floorplan and introduction to library cells</ins>   
 ### Utilization Factor and Aspect Ratio:  
-Utilization factor = Area utilized by chip/Area of core  
-Aspect Ratio = Height / Width
+**Utilization factor** = Area utilized by chip/Area of core   
+**Aspect Ratio** = Height / Width   
+**De Coupling Capacitors** : Used for ensuring the same expected output.  
+**Repeators** : Used to pass expected signals . It is also called buffers.  
+The logical gates are phsyically block like structures and it is connected to flip flops through netlist.  
+**A Typical Optimized Placement**  
+![PLACE](<Screenshottyp 2025-01-31 220024.png>)  
+**Steps for Library characterization** 
+1.![1](<Screenshot 12025-01-31 220258.png>)  
+2.![2](<Screenshot2 2025-01-31 220409.png>)  
+3.![3](<Screenshot3 2025-01-31 220446.png>)  
+4.![4](<Screenshot4 2025-01-31 220553.png>)  
+5.![5](<Screenshot5 2025-01-31 220640.png>)  
+**Important step**  
+![IMPORTANT](<Screenshotimportant 2025-01-31 211020.png>)  
+**Summary for Library characterization**  
+![LAST](<Screenshot l2025-01-31 220811.png>)
 ### Exercise   
 **Various Variables for Floorplan of chip :**   
 ![VARIABLES](<Screenshotreadme 2025-01-30 211225.png>)  
