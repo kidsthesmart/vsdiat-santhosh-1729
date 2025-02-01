@@ -104,11 +104,13 @@ Here , 671405 Database units = 671.405 microns
   
   ## <ins>Topic 3 : Design Library cell using Magic layout and ngspice characterization</ins>  
   ### IO placer Exercise :  
-  **Replaced IO pins from equidistant mode to more close mode**  
+  **Replaced IO pins from equidistant mode to closer mode**  
   Code  
   ![IO Code](<Screenshot g2025-02-01 162832.png>)  
   Output  
-  ![IO](<Screenshotm 2025-02-01 162559.png>)
+  ![IO](<Screenshotm 2025-02-01 162559.png>)  
+  **A typical inverter**  
+  ![INVERTER](image.png)
 
 
 
