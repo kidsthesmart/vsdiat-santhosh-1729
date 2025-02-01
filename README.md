@@ -117,7 +117,17 @@ Here , 671405 Database units = 671.405 microns
   **Extracting spice file**  
   ![SPICE](<Screenshot 2025-02-01 180023.png>)   
   **Extracted spice file using vim**  
-  ![Extracted](<Screenshot 2025-02-01 180249.png>)
+  ![Extracted](<Screenshot 2025-02-01 180249.png>)  
+  **Finalised spice file with modification**  '
+  ![MODIFIed](<Screenshot 2025-02-01 184938.png>)  
+  **Installed ngspice**  
+  ![INSTALLED](<Screenshot 2025-02-01 185301.png>)  
+  **Plot**  
+  ![PLOT1](<Screenshot 2025-02-01 190942.png>)  
+  **Zoomed values**  
+  ![z](<Screenshot 2025-02-01 191558.png>)  
+  **Zoomed graph**  
+  ![Z1](<Screenshot 2025-02-01 191657.png>)
 
 
 
