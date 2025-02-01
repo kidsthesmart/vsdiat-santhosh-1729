@@ -60,7 +60,22 @@ The logical gates are phsyically block like structures and it is connected to fl
 ![IMPORTANT](<Screenshotimportant 2025-01-31 211020.png>)  
 **Summary for Library characterization**  
   
-![LAST](<Screenshot l2025-01-31 220811.png>)
+![LAST](<Screenshot l2025-01-31 220811.png>)  
+**Design Steps**  
+It includes circuit design , layout design and characterization.  
+**Circuit design**  
+![CIRCUIT](<Screenshotcircuit 2025-02-01 155412.png>)  
+**Layout design**  
+![LAYOUT1](<Screenshot j2025-02-01 155542.png>)   
+![LAYOUT2](<Screenshotk 2025-02-01 155642.png>)  
+A typical metal layer   
+![LAYOUT3](<Screenshot l2025-02-01 155839.png>)  
+**Threshold definitions**  
+![TD](<Screenshot 2025-02-01 160401.png>)  
+![TYpical graph](<Screenshot 2025-02-01 160510.png>)  
+Propagation delay = out - in  
+Propagation delay = high - low  
+
 ### Exercise   
 **Various Variables for Floorplan of chip :**   
 ![VARIABLES](<Screenshotreadme 2025-01-30 211225.png>)  
