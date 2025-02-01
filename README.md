@@ -113,7 +113,11 @@ Here , 671405 Database units = 671.405 microns
   ![INVERTER](image.png)  
   ![NMOS](<Screenshot 2025-02-01 174834.png>)   
   ![PMOS](<Screenshot 2025-02-01 174948.png>)  
-  Here the green colour would be nmos and brown colour would be pmos. 
+  Here the green colour would be nmos and brown colour would be pmos.  
+  **Extracting spice file**  
+  ![SPICE](<Screenshot 2025-02-01 180023.png>)   
+  **Extracted spice file using vim**  
+  ![Extracted](<Screenshot 2025-02-01 180249.png>)
 
 
 
