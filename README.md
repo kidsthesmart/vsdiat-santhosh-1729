@@ -100,7 +100,15 @@ Here , 671405 Database units = 671.405 microns
 ![MAGIC2](<Screenshomt 2025-01-30 220505.png>)  
 **Running placement of flip-flop cells and logical gates**  
 ![PLACEMENT1](<Screenshotpla 2025-01-31 213730.png>)  
-![PLACEMENT2](<Screenshotpla1 2025-01-31 214745.png>)  
+![PLACEMENT2](<Screenshotpla1 2025-01-31 214745.png>)   
+  
+  ## <ins>Topic 3 : Design Library cell using Magic layout and ngspice characterization</ins>  
+  ### IO placer Exercise :  
+  **Replaced IO pins from equidistant mode to more close mode**  
+  Code  
+  ![IO Code](<Screenshot g2025-02-01 162832.png>)  
+  Output  
+  ![IO](<Screenshotm 2025-02-01 162559.png>)
 
 
 
