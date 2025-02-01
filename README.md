@@ -110,7 +110,10 @@ Here , 671405 Database units = 671.405 microns
   Output  
   ![IO](<Screenshotm 2025-02-01 162559.png>)  
   **A typical inverter**  
-  ![INVERTER](image.png)
+  ![INVERTER](image.png)  
+  ![NMOS](<Screenshot 2025-02-01 174834.png>)   
+  ![PMOS](<Screenshot 2025-02-01 174948.png>)  
+  Here the green colour would be nmos and brown colour would be pmos. 
 
 
 
