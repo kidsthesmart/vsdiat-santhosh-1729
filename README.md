@@ -127,7 +127,8 @@ Here , 671405 Database units = 671.405 microns
   **Zoomed values**  
   ![z](<Screenshot 2025-02-01 191558.png>)  
   **Zoomed graph**  
-  ![Z1](<Screenshot 2025-02-01 191657.png>)
+  ![Z1](<Screenshot 2025-02-01 191657.png>)  
+  The fall delay = 6.17958 - 6.15034 = 0.02924  
 
 
 
